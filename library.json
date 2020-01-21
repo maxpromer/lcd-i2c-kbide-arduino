@@ -1,0 +1,15 @@
+{
+  "name": "LiquidCrystal_I2C",
+  "title" : "Liquid Crystal I2C",
+  "keywords": "lcd, i2c , esp32",
+  "description": "Library for parallel HD44780 compatible LCDs interfaced via a Chinese PCF8574 I2C serial extender.",
+  "category":"Display",
+  "license": "MIT",
+  "git": "https://github.com/KhonKaenMakerClub/lcd-i2c-kbide/",
+  "author": "original by Libor Gabaj | blocks by Comdet",
+  "email": "libor.gabaj@gmail.com",
+  "url": "https://github.com/mrkaleArduinoLib/LiquidCrystal_I2C.git",
+  "version": "2.6.1",
+  "platform": [ "arduino-avr" ],
+  "image" : "/static/display.jpg"
+}
