@@ -1,5 +1,5 @@
 {
-  "name": "LiquidCrystal_I2C",
+  "name": "LiquidCrystal_I2C_arduino",
   "title" : "Liquid Crystal I2C",
   "keywords": "lcd, i2c , esp32",
   "description": "Library for parallel HD44780 compatible LCDs interfaced via a Chinese PCF8574 I2C serial extender.",
